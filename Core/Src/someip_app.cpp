@@ -11,7 +11,7 @@
 #include <string_view>
 
 #include "someIp/ESomeIp.hpp"
-#include "someIp/os/OS.hpp"
+#include "someIp/os/Os.hpp"
 #include "someIp/communication/EndpointLwip.hpp" // converts ip_addr_t to someIp::IpAddr
 #include "someIp/structs/Service.hpp"
 #include "someIp/structs/Method.hpp"

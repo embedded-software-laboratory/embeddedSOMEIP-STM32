@@ -1,0 +1,3 @@
+[submodule "Middlewares/Third_Party/EmbeddedSOMEIP"]
+	path = Middlewares/Third_Party/EmbeddedSOMEIP
+	url = https://github.com/embedded-software-laboratory/embeddedSOMEIP.git
